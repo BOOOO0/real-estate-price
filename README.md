@@ -21,7 +21,7 @@
   pip install jupyter
   pip install ipykernel
   pip install scikit-learn
-  pip install beautifulsoup
+  pip install beautifulsoup4
   pip install matplotlib
   pip install pandas
   pip install numpy
