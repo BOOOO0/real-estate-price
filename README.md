@@ -21,6 +21,7 @@
   pip install jupyter
   pip install ipykernel
   pip install scikit-learn
+  pip install BeautifulSoup
   pip install matplotlib
   pip install pandas
   pip install numpy
@@ -29,3 +30,7 @@
 ## 실행 방법
 
 - `master`브랜치를 clone한 후 `main.ipynb`를 순서대로 실행시키면 됩니다.
+
+## 결과 분석
+
+- 분양권 전매의 평균가가 일반 매매보다 확실히 높게 형성되어 있으며 평수가 커질 수록 그 차이가 커지는 것을 확인할 수 있습니다.
